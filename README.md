@@ -9,5 +9,5 @@ Devops
 
 [![Releases](https://img.shields.io/github/release/<github-username>/devops/all.svg?style=flat-square)](https://github.com/KevronFerdinand/devops/releases)
 
-https://img.shields.io/github/actions/workflow/status/:user/:repo/:workflow
+
 
