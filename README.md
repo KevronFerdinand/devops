@@ -7,6 +7,6 @@ Devops
 
 [![LICENSE](https://img.shields.io/github/license/KevronFerdinand/devops.svg?style=flat-square)](https://github.com/KevronFerdinand/devops/blob/master/LICENSE)
 
-[![Releases](https://img.shields.io/github/release//devops/all.svg?style=flat-square)](https://github.com/KevronFerdinand/devops/releases)
+[![Releases](https://img.shields.io/github/release/KevronFerdinand/devops/all.svg?style=flat-square)](https://github.com/KevronFerdinand/devops/releases)
 
 
